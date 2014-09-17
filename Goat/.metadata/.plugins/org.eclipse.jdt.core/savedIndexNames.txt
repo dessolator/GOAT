@@ -1,0 +1,24 @@
+INDEX VERSION 1.126+C:\Users\nordeus\Desktop\07 - GOAT\repo\Goat\.metadata\.plugins\org.eclipse.jdt.core
+1697886153.index
+1995173708.index
+1855099738.index
+163172794.index
+3311867386.index
+3065916431.index
+3133528496.index
+3712095619.index
+3282080775.index
+1258331234.index
+30765161.index
+374255453.index
+1299022128.index
+1115467115.index
+4139013089.index
+3632045687.index
+1498219845.index
+4041092966.index
+4155206848.index
+3399994920.index
+3974580528.index
+4108727661.index
+305854171.index
